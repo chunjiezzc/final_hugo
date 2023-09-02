@@ -15,7 +15,7 @@ social:
     link: https://www.linkedin.com/in/zhengchu-zhang-276a7b232/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Zhengchu.pdf
 organizations:
   - name: Singapore Management University (SMU)
     url: https://smu.edu.sg/

@@ -1,7 +1,6 @@
 ---
 title: Zhengchu ZHANG 张正出
-role: Ph.D. student in Strategy & Entrepreneurship, Singapore Management
-  University (SMU)
+role: Ph.D. student in Strategy & Entrepreneurship
 avatar_filename: avatar.jpg
 bio: ""
 interests:

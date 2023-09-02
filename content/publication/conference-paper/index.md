@@ -19,7 +19,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Riding on the Fast Track to Debt Risk? Evidence from Subway Plan in China.
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
@@ -28,7 +28,7 @@ image:
   preview_only: false
 date: 2023-01-20T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
